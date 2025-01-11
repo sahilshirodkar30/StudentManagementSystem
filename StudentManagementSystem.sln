@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem.Server", "StudentManagementSystem.Server\StudentManagementSystem.Server.csproj", "{56E3256C-E94F-412D-BF1B-1801DA1787BF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "studentmanagementsystem.client", "studentmanagementsystem.client\studentmanagementsystem.client.esproj", "{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E3256C-E94F-412D-BF1B-1801DA1787BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E3256C-E94F-412D-BF1B-1801DA1787BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E3256C-E94F-412D-BF1B-1801DA1787BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E3256C-E94F-412D-BF1B-1801DA1787BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABDE0DB-5B4E-473F-BE6C-90C2D64F3028}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
